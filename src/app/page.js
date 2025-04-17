@@ -1,6 +1,5 @@
 'use client';
 import { useState } from "react";
-import Image from "next/image";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Container, Button, Row, Col } from "react-bootstrap";
 export default function Home() {
